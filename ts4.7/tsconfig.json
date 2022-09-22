@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "lib": ["es2021"],
+    "moduleResolution": "node",
+    "strict": true,
+    "noEmit": true
+  },
+  "include": ["code.ts"]
+}
